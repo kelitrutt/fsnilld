@@ -1,4 +1,4 @@
-fsnilld
+﻿fsnilld
 =======
 
 Forritunarsnilld
@@ -8,3 +8,4 @@ og búðu til skrá með github notandanafninu þínu
 og uppáhalds brandara.
 
 Hafsteinn Baldvinsson
+Hrafnkell Hringur Helgason
